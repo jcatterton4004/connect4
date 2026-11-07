@@ -1,1 +1,1 @@
-# connect4
+This repository contains the files to run a digital game of Connect 4. I completed this project with a partner for the course CSC 335: Object Oriented Programming in my Spring 2026 semester. The backend language for this project is Java and the frontend was built using JavaFX. The classes follow a Model-View-Controller architecture.
